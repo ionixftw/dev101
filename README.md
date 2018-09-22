@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Background
+### Janapadas
+In the earliest period Bengal area was named after the different groups of people who inhabited the place. These are called Janapadas.
+* Vanga
+... Major portion of present Bangladesh, its southern and south-eastern districts.
+* Pundra
+...Northern Bangladesh and parts of northern West Bengal.
+* Radha
+...Southern part of present West Bengal.
+* Gauda
+...Parts of mid-West Bengal.
+* Samatata
+...trans-Meghna region of Bangladesh in its south-eastern part (Comilla - Noakhali).
+* Harikela
+...Chittagong area and its adjacent areas
 
-You can use the [editor on GitHub](https://github.com/ionixftw/dev101/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ionixftw/dev101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Aryan
+Around 5th century B.C. Arans pushed into Bengal from the western side.
+It took them about 1000 years to take whole command of Bengal.
+Because of feeble influence pre-Aryan elements in the culture of the people got time to be rooted deeply.
+Stone tools indicate the  earliest evidence of human settlements.
+Pre-historic implements have been discovered in various parts of West Bengal in the districs of Midnapur, Bankura, Burdwan.
+The archaeological discoveries in 1960's bear evidence that, around 1000 B.C. there was a comparatively higher degree of civilisation in certain parts of Bangladesh. 
+'Pandu Rajar Dhibi' near Ajay river in the Burdwan district, represents the ruins of trading township, which carried on trade both internally and externally.
