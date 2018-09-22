@@ -3,17 +3,17 @@
 In the earliest period, Bengal area was named after the different groups of people who inhabited the place. These are called Janapadas.
 
 * Vanga
-   Major portion of present Bangladesh, its southern and south-eastern districts.
+   - Major portion of present Bangladesh, its southern and south-eastern districts.
 * Pundra
-   Northern Bangladesh and parts of northern West Bengal.
+   - Northern Bangladesh and parts of northern West Bengal.
 * Radha
-   Southern part of present West Bengal.
+   - Southern part of present West Bengal.
 * Gauda
-   Parts of mid-West Bengal.
+   - Parts of mid-West Bengal.
 * Samatata
-   trans-Meghna region of Bangladesh in its south-eastern part (Comilla - Noakhali).
+   - trans-Meghna region of Bangladesh in its south-eastern part (Comilla - Noakhali).
 * Harikela
-   Chittagong area and its adjacent areas
+   - Chittagong area and its adjacent areas
 
 # Aryan
 Around 5th century B.C. Aryans pushed into Bengal from the western side.
