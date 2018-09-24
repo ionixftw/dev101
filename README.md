@@ -2,18 +2,14 @@
 ### Janapadas
 In the earliest period, Bengal area was named after the different groups of people who inhabited the place. These are called Janapadas.
 
-* Vanga
-   - Major portion of present Bangladesh, its southern and south-eastern districts.
-* Pundra
-   - Northern Bangladesh and parts of northern West Bengal.
-* Radha
-   - Southern part of present West Bengal.
-* Gauda
-   - Parts of mid-West Bengal.
-* Samatata
-   - trans-Meghna region of Bangladesh in its south-eastern part (Comilla - Noakhali).
-* Harikela
-   - Chittagong area and its adjacent areas
+| Name | Area |
+| ------ | ------ |
+| Vanga | Major portion of present Bangladesh, its southern and south-eastern districts. |
+| Pundra | Northern Bangladesh and parts of northern West Bengal. |
+| Radha | Southern part of present West Bengal. |
+| Gauda | Parts of mid-West Bengal. | 
+| Samatata | trans-Meghna region of Bangladesh in its south-eastern part (Comilla - Noakhali). |
+| Harikela | Chittagong area and its adjacent areas. |
 
 # Aryan
 Around 5th century B.C. Aryans pushed into Bengal from the western side.
@@ -53,3 +49,50 @@ achievement of Gupta empire.
 
 Artistic excellence of the Gupta School inspired the Bengal school of scruptural art.
 
+# Sasanka Rule
+
+* In 600 A.D. south and east Bengal became independent under local rulers and formed the kingdom of Vanga.
+
+* In the central part of northern India the Maukharis rose to prominence but later Gupta's held sway over Bihar, western and northern Bangladesh. It lead to a lot of clashes between Gupta and the Maukharis for the possession of Magadha (souther Bihar) and parts of western and northern Bengal.
+
+* Sasanka(master of northern and western Bengal as far as Chilka lake in Orissa) is the first king of Bengali to extend his suzerainty over territories far beyond the geographical boundaris of that proince. By the beginning of 7th century A.D. Gauda emerged as an independent nation under Sasanka and Magadha formed a part of his dominions(শাসনকৃত এলাকা). He attempted at establishing a north Indian empire simultaneously keeping Gauda empire independent.
+
+* Harshavardhana, who owned practically the whole north India and parts of southern India, was the powerful adversary of Sasanka.
+
+* Sasanka's capital Karnasuvarna, is located at Rangamati, six miles southwest of Bahrampur in the Murshidabad district of India.
+
+* Sasanka was staunch Shaivite ( follower of Shiva ) and said to be an anti-Buddhist. But this information came from one of his adversaries, so it is not genuine.
+
+* He is the forerunner of agressive northern Indian policy of the later day Pala rulers like Dharmapala and Devpala.
+
+# Matsyanyayam
+
+* **Definition:** Matsyanyayam is a period of anarchy and lawlessness. When the law of punishment is kept in abeyance, it gives rise to such disorder as is implied in the proverb of fishes i.e. the larger fish swallows a small one, for in the absensce of law-enforcing authority, the strong will swallow the weak.
+
+* Matsyanyayam lasted for a century ( 650 A.D. - 750 A.D. )
+
+* The death of Sasanka initiated this period of lawlessness. Harshavardana died in 647 A.D. and the usurpation of his kingdom by his ministers created political chaos.
+
+* Gopala emergerd to the helm of affairs in Bengal and succeeded in putting and end to the state of Matsyanyayam.
+
+# The Pala Dynasty
+
+* In 750 A.D., Gopala founded Pala dynasty, which lasted for four hundred years.
+
+* The history of the long line of Pala rulers can be viewed under different phases:
+   - Period of ascendancy
+     - Dharmapala and Devpala
+   - Period of stagnation
+     - to be rejevuneted by Mahipala, who is considered to be the second founder of the dynasty.
+   - Period of decline and disintegration
+     - was halted by the vigorous rule of Ramapala.
+
+* Under the vigorous rule of Devpala and Dharmapala, Bengal are was involved in a tripartite struggle with The Gurjara Pratiharas of western India and the Rashtrakutas of southern India. Northern India's traditional center seat at Kannauj was the main target of these three parties.
+
+* Despite facing many reverses, Dharmapala succeeded in advancing his influence up to Kanauj. He also succeeded in maintaining his hold outside Bengal and Bihar.
+
+* Dharmapala was a devoted Buddhist and credited with the foundation of the Vikramasila monastery.
+
+* Somapura Mahavihar, at Paharpur ( in Naogaon district in Bangladesh), included in the 'Heritage of Man' of UNESCO, largest Buddhist monastery in the Indian subcontinent ( about 1000 feet square), is another monumental architechtural work of Dharmapala.
+
+* Devapala, the successor of Dharmapala, continued to pursue supremacy of northern India (specially Kanauj), which was later conquered by Gurjara Pratiharas.
