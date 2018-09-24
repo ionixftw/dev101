@@ -55,7 +55,7 @@ Artistic excellence of the Gupta School inspired the Bengal school of scruptural
 
 * In the central part of northern India the Maukharis rose to prominence but later Gupta's held sway over Bihar, western and northern Bangladesh. It lead to a lot of clashes between Gupta and the Maukharis for the possession of Magadha (souther Bihar) and parts of western and northern Bengal.
 
-* Sasanka(master of northern and western Bengal as far as Chilka lake in Orissa) is the first king of Bengali to extend his suzerainty over territories far beyond the geographical boundaris of that proince. By the beginning of 7th century A.D. Gauda emerged as an independent nation under Sasanka and Magadha formed a part of his dominions(শাসনকৃত এলাকা). He attempted at establishing a north Indian empire simultaneously keeping Gauda empire independent.
+* Sasanka(master of northern and western Bengal with his empire extending as far as Chilka lake in Orissa) is the first king of Bengal to extend his suzerainty over territories far beyond the geographical boundaries of that province. By the beginning of 7th century A.D. Gauda emerged as an independent nation under Sasanka and Magadha formed a part of his dominions(শাসনকৃত এলাকা). He attempted at establishing a north Indian empire simultaneously keeping Gauda empire independent.
 
 * Harshavardhana, who owned practically the whole north India and parts of southern India, was the powerful adversary of Sasanka.
 
@@ -67,7 +67,7 @@ Artistic excellence of the Gupta School inspired the Bengal school of scruptural
 
 # Matsyanyayam
 
-* **Definition:** Matsyanyayam is a period of anarchy and lawlessness. When the law of punishment is kept in abeyance, it gives rise to such disorder as is implied in the proverb of fishes i.e. the larger fish swallows a small one, for in the absensce of law-enforcing authority, the strong will swallow the weak.
+* **Definition:** Matsyanyayam is a period of anarchy and lawlessness. When the law of punishment is kept in abeyance, it gives rise to such disorder as is implied in the proverb of fishes i.e. the larger fish swallows the small one, for in the absensce of law-enforcing authority, the strong will swallow the weak.
 
 * Matsyanyayam lasted for a century ( 650 A.D. - 750 A.D. )
 
@@ -96,3 +96,9 @@ Artistic excellence of the Gupta School inspired the Bengal school of scruptural
 * Somapura Mahavihar, at Paharpur ( in Naogaon district in Bangladesh), included in the 'Heritage of Man' of UNESCO, largest Buddhist monastery in the Indian subcontinent ( about 1000 feet square), is another monumental architechtural work of Dharmapala.
 
 * Devapala, the successor of Dharmapala, continued to pursue supremacy of northern India (specially Kanauj), which was later conquered by Gurjara Pratiharas.
+
+* Dharmapala and Devapala consolidated their empire in northern and western Bengal.
+
+# The Sena Dynasty
+
+* Towards the end of the 12th century A.D., Vijayasena founded the Sena empire.
