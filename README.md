@@ -12,42 +12,41 @@ In the earliest period, Bengal area was named after the different groups of peop
 | Harikela | Chittagong area and its adjacent areas. |
 
 # Aryan
-Around 5th century B.C. Aryans pushed into Bengal from the western side.
+* Around 5th century B.C. Aryans pushed into Bengal from the western side.
 
-It took them about 1000 years to take whole command of Bengal.
+* It took them about 1000 years to take whole command of Bengal.
 
-Because of feeble influence, pre-Aryan elements in the culture of the people got time to be rooted deeply.
+* Because of feeble influence, pre-Aryan elements in the culture of the people got time to be rooted deeply.
 
-Stone tools indicate the  earliest evidence of human settlements.
+* Stone tools indicate the  earliest evidence of human settlements.
 
-Pre-historic implements have been discovered in various parts of West Bengal in the districs of Midnapur, Bankura, Burdwan.
+* Pre-historic implements have been discovered in various parts of West Bengal in the districs of Midnapur, Bankura, Burdwan.
 
-The archaeological discoveries in 1960's bear evidence that, around 1000 B.C. there was a comparatively higher degree of civilisation in certain parts of Bangladesh. Atlthough Aryans descibed existing inhabitants as Barbarians, they were in fact much more civilised.
+* The archaeological discoveries in 1960's bear evidence that, around 1000 B.C. there was a comparatively higher degree of civilisation in certain parts of Bangladesh. Atlthough Aryans descibed existing inhabitants as Barbarians, they were in fact much more civilised.
 
-'Pandu Rajar Dhibi' near Ajay river in the Burdwan district, represents the ruins of trading township, which carried on trade both internally and externally.
+* 'Pandu Rajar Dhibi' near Ajay river in the Burdwan district, represents the ruins of trading township, which carried on trade both internally and externally.
 
-An inscription written in Brahmi script found in excavation at Mahasthana (formerly known as Pundranagar) in Bogra district is the earliest epigraphic record in Bangladesh and it bears testimony of Maurya rule ( 3rd century B.C.).
+* An inscription written in Brahmi script found in excavation at Mahasthana (formerly known as Pundranagar) in Bogra district is the earliest epigraphic record in Bangladesh and it bears testimony of Maurya rule ( 3rd century B.C.).
 
-The Brahmi script bears evidence of using relief measures such as paddy and money in times of calamities, strong mutual respect between administration and people, weaving fine cotton, terracota plaques.
+* The Brahmi script bears evidence of using relief measures such as paddy and money in times of calamities, strong mutual respect between administration and people, weaving fine cotton, terracota plaques.
 
 # Gupta Rule
 
-From the fall of the Mauryas( 2nd century B.C.) to the rise of the Guptas ( 4th century A.D.) Bengal continued to flourish in the Sunga and Kushna periods, that is ascertained by terracotta figurines found at Mahasthana, Tamralipti, and Chandraketugarh.
+* From the fall of the Mauryas( 2nd century B.C.) to the rise of the Guptas ( 4th century A.D.) Bengal continued to flourish in the Sunga and Kushna periods, that is ascertained by terracotta figurines found at Mahasthana, Tamralipti, and Chandraketugarh.
 
-Circa 4th century A.D. , Under Gupta founder Samudragupta, Bengal remained divided into independent states. Around 450 A.D., all these states came under Samudragupta's rule except Samatata, which was a tributary state.
+* Circa 4th century A.D. , Under Gupta founder Samudragupta, Bengal remained divided into independent states. Around 450 A.D., all these states came under Samudragupta's rule except Samatata, which was a tributary state.
 
-Chandragupta II ( successor of Samudragupta ) consolidated all their possessions in the east and wage wars against the Vangas.
+* Chandragupta II ( successor of Samudragupta ) consolidated all their possessions in the east and wage wars against the Vangas.
 
-Proper administration was present during Gupta rule, in which participation of local people in administrative tasks was encouraged.
+* Proper administration was present during Gupta rule, in which participation of local people in administrative tasks was encouraged.
 
-Under a central government, peace, wealth, prosperity and political stability was ensured.
+* Under a central government, peace, wealth, prosperity and political stability was ensured.
 
-Trade and commerce also flourished during Gupta empire. The discovery of large number of Gupta coins bear testimony of economic prosperity.
+* Trade and commerce also flourished during Gupta empire. The discovery of large number of Gupta coins bear testimony of economic prosperity.
 
-Religion tolerance and coexistence of religious beliefs (Buddism, Jainism) is an unprecendent  
-achievement of Gupta empire.
+* Religion tolerance and coexistence of religious beliefs (Buddism, Jainism) is an unprecendent achievement of Gupta empire.
 
-Artistic excellence of the Gupta School inspired the Bengal school of scruptural art.
+* Artistic excellence of the Gupta School inspired the Bengal school of scruptural art.
 
 # Sasanka Rule
 
@@ -67,7 +66,7 @@ Artistic excellence of the Gupta School inspired the Bengal school of scruptural
 
 # Matsyanyayam
 
-* **Definition:** Matsyanyayam is a period of anarchy and lawlessness. When the law of punishment is kept in abeyance, it gives rise to such disorder as is implied in the proverb of fishes i.e. the larger fish swallows the small one, for in the absensce of law-enforcing authority, the strong will swallow the weak.
+> **Definition:** Matsyanyayam is a period of anarchy and lawlessness. When the law of punishment is kept in abeyance, it gives rise to such disorder as is implied in the proverb of fishes i.e. the larger fish swallows the small one, for in the absensce of law-enforcing authority, the strong will swallow the weak.
 
 * Matsyanyayam lasted for a century ( 650 A.D. - 750 A.D. )
 
@@ -122,7 +121,7 @@ Artistic excellence of the Gupta School inspired the Bengal school of scruptural
 
 # Dynasties of Southeastern Bengal
 
-coming soon....
+Coming soon....
 
 # The Sena Dynasty
 
@@ -153,3 +152,99 @@ coming soon....
 * The Bengal school of sculptural art reached its high water mark during Sena Period.
 
 # Muslims of Bengal
+
+# Ikhtiyar-ud-Din bin Bakhtiyar Khalji
+
+* In 1199, Turkish general Ikhtiyar-ud-Din Muhammad, son of Bakhtiyar Khalji, conquered Bihar after defeating Govindapala.
+
+* In 1202, he conquered Bengal with only 17 cavalry. Lakshman Sen fled to East Bengal and continued to rule from Vikrampur until the Sena dynasty came to an end in 1245.
+
+* In order to get relief from Brahmanical Hinduism imposed by Sena Kings, people voluntarily accepted Islam and welcomed Ikhtiyar-ud-Din as their new ruler.
+
+* Ikhtiyar-ud-Din issued a gold coing commemorating the conquest of Gaur inscribed in Arabic and Sanskrit depicting a Turkish cavalryman charging at full gallop and holding a mace.
+
+* Ithtiyar-ud-Din gave more attention to **Lakhnawati**, near the present site of Gaur in the district of Malda which became the first **capital** under Muslim rule in Bengal. He had command over Malda, Dinajpur, Murshidabad and Birbhum districts.
+
+* From the 13th century onwards, Bengal was ruled by the governors of the Delhi Sultanate. Ali Mardan *(who was appointed the Governor Bengal after Ikhtiyar-ud-Din in 1206)* declared independence against Delhi suzerainty.
+
+* Ali Mardan issued silver coins depicting a cavalryman image commemmorating the conquest of Bengal in Ramazan in 1204 A.D. / 600 A.H.
+
+* The Turkish rulers built the lofty Minar of Chhota Pandau as a victory monument in the south-western Bengal.
+
+* Sultan Giyas-ud-Din Balban appointed his son Bughra Khan(a.k.a Sultan Nasir-ud-Din) as the Governor of Bengal, who ruled at Gaur.
+
+* Sultan Nasir-ud-Din abdicated in favour his son Rukn-ud-Din Kaikaus, who was succeeded by Shams-ud-Din Firuz Shah.
+
+# Shams-ud-Din Firuz Shah (feat. Hazrat Shah Jalal)
+
+* Shams-ud-Din Firuz Shah got help from Hazrat Shah Jalal in the conquests of Sonargaon, Mymensingh and Sylhet(ascribed to Hazrat Shah Jalal in 1303).
+
+* Moroccan traveller Ibn Batuta made a great detour to meet the saint Hazrat Shah Jalal(whose mansoulem is in Sylhet). In his words,
+
+> "The inhabitants of these mountains had embraced Islam at his hands, and for this reason he stayed amidst them."
+
+* During Kaikus and Firuz reign, 
+
+* Firuz founded the city of Firuzabad-Padua, the later capital of Bengal.
+
+* Sultan Giyas-ud-Din Tughluq extended Muslim rule in the Tippera state and Chittagong district. He reasserted the authority of Delhi over Bengal.
+
+* Fakhr-ud-Din Mubarak Shah assumed kingship of East Bengal with capital at Sonargaon in 1338, and Ala-ud-Din Ali Shah assumed kingship of West Bengal with capital at Gaura in 1340.
+
+# Shams-ud-Din Ilyas Shah (united Bengal)
+
+* In 1342, Shams ud-din Ilyas Shah took possession of Satgaon, made himself master of Gaur.
+
+* His issued coins had "The just Sultan" inscribed on one side and on the other side "The Second Alexander, the right hand of the caliphate, the defender of the COmmander of the faithful".
+
+* He shifted the capital from Lakhnawati to Pandua in the Malda district.
+
+* He repelled foreign invasions and defeated a lot of Hindu rajas.
+
+* He was a patron of Bengali language and literature.
+
+* He built the famous Adina mosque(the largest mosque ever built in Indian subcontinent) in 1375 at Pandua.
+
+* Under his reign, Muslim arts and sciences flourished, and commerce in Bengal's textiles and foodstuffs was encouraged.
+
+* Sikandar Shah (successor of Ilyas Shah) was succeeded by Ghiyas-ud-Din Azam Shah(buried near Sonargaon) who sent large sums of money to the holy places in Hijaz. Ghiyas also invited the famous Persian poet Hafiz to come to his court at Pandua. Chinese Ambassador left a glowing account of the magnificence of the palace and the court at Pandua.
+
+# Jalal ud-Din Muhammad Shah (faith in coins)
+
+* Jalal ud-Din Muhammad Shah, son of a powerful Hindu chief Ganesh(who converted to Islam), made contribution in constructing a religious institution in Mecca and established relations with the ruler of Egypt who sent him a robe of honour and a letter of recognition.
+
+* He issued coins from Pandua, Chittagong, Sonargaon, Satgaon, and Faridpur.
+
+* The Eklakhi mansoleum in Pandua is one of the finest old monuments of Bengal.
+
+* His son Shams ud-Din Ahmad Shah succeeded him and the dynasty came to an end after his assassination.
+
+* The Ilyas Shah dynasty restored power and ruled till 1486. Chittagong was lost to the Arakanses but the frontiers of Bengal was largely extended. Khan jahan (tomb at Bagerhat) conquered Bagerhat of Khulna. 
+
+* A large number of buildings was constructed at Gaur, Pandua. Jalal ud-din Fath Shah(assassinated in 1487) was the last king of the dynasty. Arkanese ruled from 1486 - 93.
+
+# Husain Shahi dynasty
+
+* The golden age of the Sultanate of Bengal was founded by Ala ud-Din Husain Shah in 1493.
+
+* He extended the boundary of his kingdom and incorporated Cooch Bihar, Kamrup, Orissa and Tripura.
+
+* He built Mosques and magnificent buildings at Gaur and Pandua.
+
+* Hindus held high positions during his regime.(chief minister, bodyguards, governor of Chitagong, private physician, master of the mint).
+
+* Chhota Sona Masjid was built at Gaur during his reign.
+
+* His son Nasur ud-Din Nushrat Shah ruled from 1519-32. 
+
+* Both he and his father were patrons fo Bengali language.
+
+* He built a mosque at Bagha in Rajshahi, and Qadam Rasul mosque was built in 1553.
+
+* He was succeeded by his brother Mahmud Shah, who ruled till 1538.
+
+* Sultans of the Husain Shahi dynasty identified themselves as Bengali Kings.
+
+# Sher Shah Sur and the Karrani dynasty
+
+* Afgan adventurer Sher Shah Suri, defeated Sultan Mahmud Shah in 1538.
