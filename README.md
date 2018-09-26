@@ -97,8 +97,59 @@ Artistic excellence of the Gupta School inspired the Bengal school of scruptural
 
 * Devapala, the successor of Dharmapala, continued to pursue supremacy of northern India (specially Kanauj), which was later conquered by Gurjara Pratiharas.
 
-* Dharmapala and Devapala consolidated their empire in northern and western Bengal.
+* Dharmapala and Devapala consolidated their empire in northern and western Bengal and in Bihar.
+
+* The period of stagnation continued for more than hundred years and five generations of kings.
+
+* The Kambojas gained possession over western and northern Bengal But Mahipala I brought back those territorries and gave a second lease of life to the Pala empire.
+
+* During the reign of Mahipala II, revolt of the Samantas succeeded under the independent rule of Divya.
+
+* Rampala was the last Pala king who showed vigour and attempted expansion programs.
+
+* By the middle of the 12th century A.D., Vijaysena, a feudatory ruler in the Pala empire, found opportunity to gather strength and ousted Palas from Bengal. Thus Sena dynasty was formed.
+
+#### Pala Contribution
+
+* Pala dynasty, gave Bengal the blessings of a stable government, sound administrative structure.
+
+* Trade and commerce was not that important in the Pala economy.
+
+* The long Buddhist rule created an atmosphere of Hindu-Buddhist amity and co-existence and religious tolerance was also present.
+
+* Buddhist Vihara architecture attained maturity in the Somapura Mahavihara at Paharpur. Terracota art, artistic excellence of sculptors, great poetic works of great Poets (Sandhyakar Nandi of north Bengal) etc are among the contributions of the Pala dynasty. 
+
+
+# Dynasties of Southeastern Bengal
+
+coming soon....
 
 # The Sena Dynasty
 
-* Towards the end of the 12th century A.D., Vijayasena founded the Sena empire.
+* Towards the end of the 12th century A.D., Vijayasena founded the Sena empire whose forefathers were from Karnata country of the Deccan.
+
+* During Rampala reign, he was a feudatory ruler ruling West Bengal.
+
+* He defeated Vermans in the southeastern Bengal and ousted Palas form northern and western Bengal.
+
+* Sena's held sway over Bengal for more than 100 years ( 1097 - 1223 A.D.) in which five generations of kings (Vijaysena, Vallalasena, Laksmansena, Visvarupsena, and Kesavasena) ruled.
+
+* It was only under the Senas that the whole of Bengal came under a single rule. The separate political entity of southeastern Bengal in the preceding four centuries must have had deep-rooted socion-cultural consequences. Vikramapura was the capital of southeastern Bengal under Senas, Chandras, and the Vermans.
+
+* The first three Sena kings were powerful but the last two only had possession over southeastern Bengal.
+
+* Vallalasena imposed orthodox Hindu social order with caste rigidity, that hampered long lived Hindu-Buddhist amity. It was not Islam which overcame Buddhism, but a more jealous rival of nearer origin. This action single handedly helped Islam to flourish in Bengal.
+
+#### Sena Contribution
+
+* The development of Sanskrit literature in Bengal was due to the patronage of Sena Kings. Under the Senas, unprecedented flourishing of literary activities in Sanskrit happened.
+
+* The most important contribution of Bengal in Sanskrit literature is the Gitagovinda of Jayadeva. Jayadeva was one of the ornaments of the court of Laksmanasena.
+
+* Five ratnas include Jayadeva ,Dhoyi, Umapatidhara, Govardhana, and Sarana.
+
+* Sadukti karnamrita anthology compiled by Sridharadasa, contains 2370 poems composed by 485 poets.
+
+* The Bengal school of sculptural art reached its high water mark during Sena Period.
+
+# Muslims of Bengal
