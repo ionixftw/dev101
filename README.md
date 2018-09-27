@@ -86,7 +86,7 @@ In the earliest period, Bengal area was named after the different groups of peop
    - Period of decline and disintegration
      - was halted by the vigorous rule of Ramapala.
 
-* Under the vigorous rule of Devpala and Dharmapala, Bengal are was involved in a tripartite struggle with The Gurjara Pratiharas of western India and the Rashtrakutas of southern India. Northern India's traditional center seat at Kannauj was the main target of these three parties.
+* Under the vigorous rule of Devpala and Dharmapala, Bengal was involved in a tripartite struggle with The Gurjara Pratiharas of western India and the Rashtrakutas of southern India. Northern India's traditional center seat at Kannauj was the main target of these three parties.
 
 * Despite facing many reverses, Dharmapala succeeded in advancing his influence up to Kanauj. He also succeeded in maintaining his hold outside Bengal and Bihar.
 
@@ -153,7 +153,7 @@ Coming soon....
 
 # Muslims of Bengal
 
-# Ikhtiyar-ud-Din bin Bakhtiyar Khalji
+## Ikhtiyar-ud-Din bin Bakhtiyar Khalji
 
 * In 1199, Turkish general Ikhtiyar-ud-Din Muhammad, son of Bakhtiyar Khalji, conquered Bihar after defeating Govindapala.
 
@@ -175,7 +175,7 @@ Coming soon....
 
 * Sultan Nasir-ud-Din abdicated in favour his son Rukn-ud-Din Kaikaus, who was succeeded by Shams-ud-Din Firuz Shah.
 
-# Shams-ud-Din Firuz Shah (feat. Hazrat Shah Jalal)
+## Shams-ud-Din Firuz Shah (feat. Hazrat Shah Jalal)
 
 * Shams-ud-Din Firuz Shah got help from Hazrat Shah Jalal in the conquests of Sonargaon, Mymensingh and Sylhet(ascribed to Hazrat Shah Jalal in 1303).
 
@@ -191,7 +191,7 @@ Coming soon....
 
 * Fakhr-ud-Din Mubarak Shah assumed kingship of East Bengal with capital at Sonargaon in 1338, and Ala-ud-Din Ali Shah assumed kingship of West Bengal with capital at Gaura in 1340.
 
-# Shams-ud-Din Ilyas Shah (united Bengal)
+## Shams-ud-Din Ilyas Shah (united Bengal)
 
 * In 1342, Shams ud-din Ilyas Shah took possession of Satgaon, made himself master of Gaur.
 
@@ -209,7 +209,7 @@ Coming soon....
 
 * Sikandar Shah (successor of Ilyas Shah) was succeeded by Ghiyas-ud-Din Azam Shah(buried near Sonargaon) who sent large sums of money to the holy places in Hijaz. Ghiyas also invited the famous Persian poet Hafiz to come to his court at Pandua. Chinese Ambassador left a glowing account of the magnificence of the palace and the court at Pandua.
 
-# Jalal ud-Din Muhammad Shah (faith in coins)
+## Jalal ud-Din Muhammad Shah (faith in coins)
 
 * Jalal ud-Din Muhammad Shah, son of a powerful Hindu chief Ganesh(who converted to Islam), made contribution in constructing a religious institution in Mecca and established relations with the ruler of Egypt who sent him a robe of honour and a letter of recognition.
 
@@ -223,7 +223,7 @@ Coming soon....
 
 * A large number of buildings was constructed at Gaur, Pandua. Jalal ud-din Fath Shah(assassinated in 1487) was the last king of the dynasty. Arkanese ruled from 1486 - 93.
 
-# Husain Shahi dynasty
+## Husain Shahi dynasty
 
 * The golden age of the Sultanate of Bengal was founded by Ala ud-Din Husain Shah in 1493.
 
@@ -245,6 +245,60 @@ Coming soon....
 
 * Sultans of the Husain Shahi dynasty identified themselves as Bengali Kings.
 
-# Sher Shah Sur and the Karrani dynasty
+## Sher Shah Sur and the Karrani dynasty
 
 * Afgan adventurer Sher Shah Suri, defeated Sultan Mahmud Shah in 1538.
+
+* Sher Shah left his mark in the history for constructing teh Grand Trunk Road from Bengal to Peshawar.
+
+* He introduced administrative reforms and modernised teh collection of revenues.
+
+* Karrani dynasty overthrew Suri dynasty.
+
+* Humayun conquered Gaur, the capital of Gaur.
+
+* Sultan Sulayman Karrani paid his allegiance(আনুগত্য) to Mogul Emperor Akbar. 
+
+* Karrani dynasty was destroyed by Akbar when Daud Karrani decleared independence from Akbar.
+
+> "The administration of Bengal had always been a problem for the Delhi Sultanats; the province's richness of resources and its distance from capital constituted standing temptations for its governors to rebel."
+
+* Akbar's commander-in-chief Munim Khan controlled Bengal from the new capital at Tanda.
+
+* Akbar's finance mininster Raja Todar Mal and Munim Khan defeated Daud Khan Karrani(last Afghan Sultan of Bengal) at the battel of **Tukaroi** and then Munim Khan transferred the capital again from Tanda to Gaur.
+
+## Suba Bangla (Twelve Chieftains)
+
+* After Munim Khan's death, he was replaced by Khan Jahan, who accompanied by Raja Todar Mal, defeated Daud's troops at the battle of Rajmahal in 1576 and brought Bengal under Mogul Empire.
+
+* Bara Bhuyyan (Twelve Chieftains) continued to challenge Mogul Empire. Isa Khan of Sonargaon was the most prominent Chieftian who defeated the Moguls in a naval blocakde in 1584.
+
+* The three Hindu Chieftains were:
+
+| Name | Place |
+| ---- | ---- |
+| Kedar Rai | Vikrampur |
+| Raja Pratapadityya | Jessore |
+| Kandarpanarayan | Chandradvipa(Bakarganj) |
+
+* Raja Man Singh(who was appointed governor of Bengal by Akbar) was defeated by the joint forces of Isa Khan and Masum Khan Kabuli in another naval blockade.
+
+* Raja Man Singh defeated Daud Khan(son of Isa Khan), Uthman Khan and killed Kedar Rai.
+
+* Emperor Jahangir appointed Islam Khan Chishti as the governor of Bengal who made Dhaka the capital of Bengal.
+
+* Dhaka was named **Jahangirnagar** after Emperor Jahangir.
+
+* Chishthi defeated Raja Pratipadyya and killed Uthman Khan.
+
+* In 1702, Murshid Kuli Khan(the architect of autonomous Bengal) transferred the revenue administration from Dhaka to Murshidabad, which became later the capital of Bengal.
+
+* Turkistani soldier, Alivardi Khan defeated and killed Sarfaraz Khan and became the Nawab of Bengal, Bihar and Orissa.
+
+# Sirajuddaulah (last independent Nawab of Bengal)
+
+* Sirajuddaulah (grandson of Alivardi Khan), was defeated in the battle of Plassey in 1757 due to the treachery of Mir Zafar combined with the conspiracy of Jagat Seth, Umi Chand and Roy Durlav.
+
+* The internecine(অন্তর্ঘাতী) fight and conspiracy in the social and political fabric of Bengal immensely helped Robert Clive in forming British empire in India.
+
+* Independent sultans and Nawabs continued to govern Bengal until Mir Qasim was defeated in the battle of Buxar in 1764.
