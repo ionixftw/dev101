@@ -161,11 +161,11 @@ Coming soon....
 
 * In order to get relief from Brahmanical Hinduism imposed by Sena Kings, people voluntarily accepted Islam and welcomed Ikhtiyar-ud-Din as their new ruler.
 
-* Ikhtiyar-ud-Din issued a gold coing commemorating the conquest of Gaur inscribed in Arabic and Sanskrit depicting a Turkish cavalryman charging at full gallop and holding a mace.
+* Ikhtiyar-ud-Din issued a gold coin commemorating the conquest of Gaur inscribed in Arabic and Sanskrit depicting a Turkish cavalryman charging at full gallop and holding a mace.
 
 * Ithtiyar-ud-Din gave more attention to **Lakhnawati**, near the present site of Gaur in the district of Malda which became the first **capital** under Muslim rule in Bengal. He had command over Malda, Dinajpur, Murshidabad and Birbhum districts.
 
-* From the 13th century onwards, Bengal was ruled by the governors of the Delhi Sultanate. Ali Mardan *(who was appointed the Governor Bengal after Ikhtiyar-ud-Din in 1206)* declared independence against Delhi suzerainty.
+* From the 13th century onwards, Bengal was ruled by the governors of the Delhi Sultanate. Ali Mardan *(who was appointed the Governor of Bengal after Ikhtiyar-ud-Din in 1206)* declared independence against Delhi suzerainty.
 
 * Ali Mardan issued silver coins depicting a cavalryman image commemmorating the conquest of Bengal in Ramazan in 1204 A.D. / 600 A.H.
 
@@ -280,6 +280,7 @@ Coming soon....
 | Kedar Rai | Vikrampur |
 | Raja Pratapadityya | Jessore |
 | Kandarpanarayan | Chandradvipa(Bakarganj) |
+
 
 * Raja Man Singh(who was appointed governor of Bengal by Akbar) was defeated by the joint forces of Isa Khan and Masum Khan Kabuli in another naval blockade.
 
