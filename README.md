@@ -315,4 +315,5 @@ Coming soon....
 | Sultan Sikandar Shah | Chandidas | composed Shrikishna Kirtan | 
 | Ghiyas ud-din Azam Shah | Shah Muhammad Sagir (not Hindu) | wrote Yusuf-Julekha |
 | Ala ud-din Husain Shah and Nusrat Shah | Vijaya Pandit and Kavindra Paramesvara | translated Ramayana and Mahabharata to bengali. |
- * Historians give credit to Mogul emperors for demonstrating liberal aspect of Islam, tolerance of other religions and allowing co-existence of different religious groups of people.
+
+* Historians give credit to Mogul emperors for demonstrating liberal aspect of Islam, tolerance of other religions and allowing co-existence of different religious groups of people.
