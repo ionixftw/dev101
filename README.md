@@ -249,13 +249,13 @@ Coming soon....
 
 * Afgan adventurer Sher Shah Suri, defeated Sultan Mahmud Shah in 1538.
 
-* Sher Shah left his mark in the history for constructing teh Grand Trunk Road from Bengal to Peshawar.
+* Sher Shah left his mark in the history for constructing the Grand Trunk Road from Bengal to Peshawar.
 
-* He introduced administrative reforms and modernised teh collection of revenues.
+* He introduced administrative reforms and modernised the collection of revenues.
 
 * Karrani dynasty overthrew Suri dynasty.
 
-* Humayun conquered Gaur, the capital of Gaur.
+* Humayun conquered Gaur, the capital of Bengal.
 
 * Sultan Sulayman Karrani paid his allegiance(আনুগত্য) to Mogul Emperor Akbar. 
 
@@ -290,16 +290,29 @@ Coming soon....
 
 * Dhaka was named **Jahangirnagar** after Emperor Jahangir.
 
-* Chishthi defeated Raja Pratipadyya and killed Uthman Khan.
+* Islam Khan Chishthi defeated Raja Pratipadyya and killed Uthman Khan(the last Afghan rebel chieftian).
 
-* In 1702, Murshid Kuli Khan(the architect of autonomous Bengal) transferred the revenue administration from Dhaka to Murshidabad, which became later the capital of Bengal.
+* In 1702, Murshid Kuli Khan(the architect of autonomous Bengal) transferred the revenue administration from Dhaka to Murshidabad, which later became the capital of Bengal.
 
 * Turkistani soldier, Alivardi Khan defeated and killed Sarfaraz Khan and became the Nawab of Bengal, Bihar and Orissa.
 
 # Sirajuddaulah (last independent Nawab of Bengal)
 
-* Sirajuddaulah (grandson of Alivardi Khan), was defeated in the battle of Plassey in 1757 due to the treachery of Mir Zafar combined with the conspiracy of Jagat Seth, Umi Chand and Roy Durlav.
+* Sirajuddaulah (grandson of Alivardi Khan), was defeated in the battle of Plassey in 1757 due to the treachery of Mir Zafar combined with the conspiracy of Hindu landlords Jagat Seth, Umi Chand and Roy Durlav.
 
 * The internecine(অন্তর্ঘাতী) fight and conspiracy in the social and political fabric of Bengal immensely helped Robert Clive in forming British empire in India.
 
 * Independent sultans and Nawabs continued to govern Bengal until Mir Qasim was defeated in the battle of Buxar in 1764.
+
+# Position of Hindus under the Muslim rulers
+
+* During the Muslim rule in Bengal, Hindus occupied privileged positions of being mechants, bankers and landholders, who enjoyed ethe aristocratic title of Rajas, Maharajas and Seths.
+
+| Name of the monarch | Privileged Hindus | Remarks |
+| ---- | ---- | ---- |
+| Murshid Quli Khan ( Mogul Governor) | Hindus | important position in administration |
+| Nawab Sirajuddaulah, Alivardi Khan | Hindus | generals and high ranking officers |
+| Sultan Sikandar Shah | Chandidas | composed Shrikishna Kirtan | 
+| Ghiyas ud-din Azam Shah | Shah Muhammad Sagir (not Hindu) | wrote Yusuf-Julekha |
+| Ala ud-din Husain Shah and Nusrat Shah | Vijaya Pandit and Kavindra Paramesvara | translated Ramayana and Mahabharata to bengali. |
+ * Historians give credit to Mogul emperors for demonstrating liberal aspect of Islam, tolerance of other religions and allowing co-existence of different religious groups of people.
