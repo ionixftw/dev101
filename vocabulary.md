@@ -1,3 +1,6 @@
+### [Back to Notes](http://dev101.cf/)
+
+# Vocabulary
 | Word | Meaning |
 | ---- | ---- |
 | supplant | স্থান দখল করা, উচ্ছেদ করা | |
@@ -126,6 +129,7 @@
 | disgruntled | অসন্তুষ্ট | adjective |
 | strata | (stratum এর বহুবচন) সামাজিক স্তর | noun |
 | upheaval | আকস্মিক বিরাট পরিবর্তন, অভ্যুত্থান | noun |
+| tacit | মৌন, নীরব । adjective |
 | agitation | আলোড়িত, বিক্ষোভ | noun |
 | oversee | তত্ত্বাবধায়ন করা, দেখাশোনা করা | verb |
 | curb | লাগাম দেয়া, নিয়ন্ত্রণ করা | verb |
