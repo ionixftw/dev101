@@ -1,4 +1,6 @@
-# Background
+# Dev 101
+### [Vocabulary](http://dev101.cf/vocabulary.html)
+
 ### Janapadas
 In the earliest period, Bengal area was named after the different groups of people who inhabited the place. These are called Janapadas.
 
