@@ -1,4 +1,5 @@
 # Dev 101
+
 ### [Vocabulary](http://dev101.cf/vocabulary.html)
 
 ### Janapadas
@@ -321,4 +322,6 @@ Coming soon....
 * Historians give credit to Mogul emperors for demonstrating liberal aspect of Islam, tolerance of other religions and allowing co-existence of different religious groups of people.
 
 # The Pakistan Experiment
+
+
 
