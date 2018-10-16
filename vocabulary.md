@@ -1,6 +1,8 @@
 ### [Back to Notes](http://dev101.cf/)
 
 # Vocabulary
+
+
 | Word | Meaning |
 | ---- | ---- |
 | supplant | স্থান দখল করা, উচ্ছেদ করা | |
